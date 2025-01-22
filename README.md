@@ -1,0 +1,2 @@
+# Unclosed File in Python Function
+This example demonstrates a common mistake in Python: forgetting to close a file after opening it.  This can lead to resource leaks and unexpected behavior.  The `bug.py` file contains the faulty code.  `bugSolution.py` shows the correct implementation with proper file handling.
